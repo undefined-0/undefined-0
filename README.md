@@ -1,4 +1,4 @@
-# 📌 About Me
+# <img src="https://raw.githubusercontent.com/undefined-0/image-store/main/PicGo/202507220037801.gif" alt="mmexport1753115445338" style="zoom: 25%;" /> About Me
 
 Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中…
 
