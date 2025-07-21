@@ -1,10 +1,12 @@
 # 📌 About Me
 
-Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中……
+Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中…
 
 　
 
-## 📈 我近一个月的 GitHub 活动 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=undefined-0&theme=github-compact)
+## 📈 我近30天的 GitHub 活动
+
+<img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=undefined-0&theme=github-compact&hide_border=true&area=true" />
 
 　
 
@@ -24,15 +26,23 @@ Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中……
 
 💬 GitHub Discussions / Issues
 
-* 我将一直期待着某天的一则issue。
+* 请与我交流吧！
 
 　
 
 ## 🛠️ 技术栈 / Tools I Use
 
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,arduino,vim,vscode,linux,debian,raspberrypi,matlab,mysql,postgres,py,opencv,latex,md&theme=dark" />
+
 | 类别 | 工具 |
 |------|------|
-| 📌 编程语言 | C/C++, Python, SQL |
-| 🧠 嵌入式开发 | Keil, STM32CubeMX, Code Composer Studio |
-| 🧵 PCB 设计 | Altium Designer, 嘉立创EDA              |
+| 👩‍💻 编程语言 | C/C++, Python, SQL |
+| 💻 嵌入式开发 | Keil, STM32CubeMX, Code Composer Studio |
+| 🧩 PCB 设计 | Altium Designer, 嘉立创EDA              |
 | 🖼️ 视觉识别 | OpenCV, YOLO |
+
+<!--
+
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,arduino,vim,vscode,eclipse,linux,debian,raspberrypi,matlab,mysql,postgres,py,npm,opencv,html,latex,md,&theme=dark" />
+
+>
