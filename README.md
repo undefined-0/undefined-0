@@ -1,16 +1,16 @@
-# <img src="./images/miku5.png" alt="" style="width: 50px; height: 50px;" />　About Me　<img src="./images/miku7.png" alt="" style="width: 50px; height: 50px;" />
+# <img src="./images/miku4.png" alt="" style="width: 39px; height: 39px;" />About Me
 
 Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中…
 
 　
 
-## 📈 我近30天的 GitHub 活动
+##  <img src="./images/miku1.png" alt="" style="width: 39px; height: 39px;" /> 我近30天的 GitHub 活动
 
 <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=undefined-0&theme=github-compact&hide_border=true&area=true" />
 
 　
 
-## 📚 我的博客 / My Blog
+## <img src="./images/miku2.png" alt="" style="width: 39px; height: 39px;" /> 我的博客 / My Blog
 
 [📖undefined-0's Blog](https://undefined-0.github.io/)
 
@@ -18,7 +18,7 @@ Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中…
 
 　
 
-##  📩 联系我 / Contact Me
+##  <img src="./images/miku3.png" alt="" style="width: 39px; height: 39px;" /> 联系我 / Contact Me
 
 [📧undefined-0's Gmail](mailto:sia.undefined.0@gmail.com)
 
@@ -30,7 +30,7 @@ Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中…
 
 　
 
-## 🛠️ 技术栈 / Tools I Use
+## <img src="./images/miku6.png" alt="" style="width: 39px; height: 39px;" /> 技术栈 / Tools I Use
 
 <img align="center" src="https://skillicons.dev/icons?i=c,cpp,arduino,vim,vscode,linux,debian,raspberrypi,matlab,mysql,postgres,py,opencv,latex,md&theme=dark" />
 
