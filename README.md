@@ -1,6 +1,6 @@
 # <img src="./images/miku4.png" alt="" style="width: 39px; height: 39px;" />About Me
 
-Hi，我是 **Undefined-0**，本科三年级学生。嵌入式学习中…
+Hi，我是 **Undefined-0**，大四在读生。
 
 　
 
